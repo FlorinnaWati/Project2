@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "MiniProject2": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\User\\Desktop\\MiniProject2\\MiniProject2\\bin",
+      "sqlDebugging": true
+    }
+  }
+}

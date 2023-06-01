@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\MiniProject2\MiniProject2\obj\Debug\net6.0-windows\MiniProject2.vbproj.AssemblyReference.cache
+C:\Users\User\Desktop\MiniProject2\MiniProject2\obj\Debug\net6.0-windows\MiniProject2.Data_Visualization.resources
+C:\Users\User\Desktop\MiniProject2\MiniProject2\obj\Debug\net6.0-windows\MiniProject2.Form1.resources
+C:\Users\User\Desktop\MiniProject2\MiniProject2\obj\Debug\net6.0-windows\MiniProject2.Loan Application.resources
+C:\Users\User\Desktop\MiniProject2\MiniProject2\obj\Debug\net6.0-windows\MiniProject2.Loan Approval.resources
+C:\Users\User\Desktop\MiniProject2\MiniProject2\obj\Debug\net6.0-windows\MiniProject2.Login.resources
+C:\Users\User\Desktop\MiniProject2\MiniProject2\obj\Debug\net6.0-windows\MiniProject2.Resources.resources
+C:\Users\User\Desktop\MiniProject2\MiniProject2\obj\Debug\net6.0-windows\MiniProject2.Risk_Level.resources
+C:\Users\User\Desktop\MiniProject2\MiniProject2\obj\Debug\net6.0-windows\MiniProject2.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\MiniProject2\MiniProject2\obj\Debug\net6.0-windows\MiniProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MiniProject2\MiniProject2\obj\Debug\net6.0-windows\MiniProject2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MiniProject2\MiniProject2\obj\Debug\net6.0-windows\MiniProject2.AssemblyInfo.vb
+C:\Users\User\Desktop\MiniProject2\MiniProject2\obj\Debug\net6.0-windows\MiniProject2.vbproj.CoreCompileInputs.cache
